@@ -6,7 +6,7 @@ sections:
     image: images/hero.png
     title: Robert Bell
     content: |-
-      Guitarist
+      Guitarist\r\n
       Bandleader
       Composer
       Producer
