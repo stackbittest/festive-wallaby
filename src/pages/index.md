@@ -14,7 +14,7 @@ sections:
         url: lorem-ipsum
         primary: false
         new_window: true
-      - label: lorem-ipsum
+      - label: What if this button text gets really long what happens
         url: lorem-ipsum
         primary: false
         new_window: true
