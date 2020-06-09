@@ -7,7 +7,6 @@ sections:
     title: Robert Bell
     content: |-
       Guitarist •
-
        Bandleader • Composer • Producer
     actions:
       - label: Learn More
