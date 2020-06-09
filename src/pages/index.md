@@ -96,7 +96,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - title: lorem-ipsum
+  - title: 'lorem-ipsum '
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
