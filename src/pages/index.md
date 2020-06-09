@@ -5,9 +5,11 @@ sections:
     type: section_hero
     image: images/hero.png
     title: Robert Bell
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: |-
+      Guitarist
+      Bandleader
+      Composer
+      Producer
     actions:
       - label: Learn More
         url: /features
