@@ -22,6 +22,10 @@ sections:
         url: lorem-ipsum
         primary: false
         new_window: true
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        primary: false
+        new_window: true
   - section_id: features
     type: section_features
     background: gray
