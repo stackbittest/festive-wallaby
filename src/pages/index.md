@@ -10,6 +10,10 @@ sections:
       - label: Learn More
         url: /features
         primary: false
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        primary: false
+        new_window: true
   - section_id: features
     type: section_features
     background: gray
