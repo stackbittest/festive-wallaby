@@ -5,7 +5,10 @@ sections:
     type: section_hero
     image: images/booksmany.jpg
     title: Robert Bell
-    content: Guitarist • Bandleader • Composer • Producer
+    content: |-
+      Guitarist •
+
+       Bandleader • Composer • Producer
     actions:
       - label: Learn More
         url: /features
