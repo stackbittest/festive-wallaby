@@ -1,5 +1,5 @@
 ---
-title: Features
+title: FeaturesX
 sections:
   - section_id: features
     type: section_content
