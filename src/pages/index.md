@@ -20,7 +20,7 @@ sections:
         new_window: true
       - label: lorem-ipsum
         url: lorem-ipsum
-        primary: false
+        primary: true
         new_window: true
       - label: lorem-ipsum
         url: lorem-ipsum
