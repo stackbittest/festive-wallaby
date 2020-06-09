@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/warren.jpg
+    image: images/booksmany.jpg
     title: Robert Bell
     content: Guitarist • Bandleader • Composer • Producer
     actions:
