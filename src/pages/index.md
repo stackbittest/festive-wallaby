@@ -96,7 +96,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - title: 'lorem-ipsum '
+  - title: I do not seem to be able to rename the section dragger for this FAQ
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
